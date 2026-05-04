@@ -1,0 +1,12 @@
+{"t": 1777381134.476598, "type": "RUN_START", "data": {"session_id": "m_t4", "attack_type": "tampering", "ubuntu_run_id": "20260428_215854_1c5615"}}
+{"t": 1777381134.4766593, "type": "PHASE_START", "data": {"phase": "normal", "duration_sec": 30}}
+{"t": 1777381164.5136032, "type": "PHASE_END", "data": {"phase": "normal", "elapsed_sec": 30.04, "actual_sent": 0}}
+{"t": 1777381164.513858, "type": "PARAM_SET", "data": {"param_id": "MC_YAW_P", "param_value": 28.0, "stage": "setup"}}
+{"t": 1777381165.0146728, "type": "PARAM_SET", "data": {"param_id": "MC_ROLLRATE_P", "param_value": 1.5, "stage": "setup"}}
+{"t": 1777381165.515757, "type": "PHASE_START", "data": {"phase": "attack", "duration_sec": 60}}
+{"t": 1777381225.5528457, "type": "PHASE_END", "data": {"phase": "attack", "elapsed_sec": 60.04, "actual_sent": 0}}
+{"t": 1777381225.5530832, "type": "PARAM_SET", "data": {"param_id": "MC_YAW_P", "param_value": 2.8, "stage": "restore"}}
+{"t": 1777381226.054216, "type": "PARAM_SET", "data": {"param_id": "MC_ROLLRATE_P", "param_value": 0.15, "stage": "restore"}}
+{"t": 1777381226.5551295, "type": "PHASE_START", "data": {"phase": "post", "duration_sec": 120}}
+{"t": 1777381346.6035283, "type": "PHASE_END", "data": {"phase": "post", "elapsed_sec": 120.05, "actual_sent": 0}}
+{"t": 1777381346.6036718, "type": "RUN_END", "data": {"session_id": "m_t4"}}

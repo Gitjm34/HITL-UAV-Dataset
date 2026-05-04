@@ -1,0 +1,14 @@
+{
+  "run_id": "20260428_204441_3c0deb",
+  "domain": "hitl",
+  "scenario": "mission_rect",
+  "attack_type": "malformed",
+  "label": "attack",
+  "start_time": "2026-04-28T20:44:41.785886",
+  "port": "/dev/serial0",
+  "baud": 57600,
+  "collector_version": "2.1",
+  "end_time": "2026-04-28T20:48:23.173746",
+  "duration_sec": 220.7,
+  "total_messages": 5007
+}
