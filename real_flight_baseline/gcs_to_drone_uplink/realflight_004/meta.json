@@ -1,0 +1,16 @@
+{
+  "run_id": "realflight_004",
+  "domain": "real_flight",
+  "scenario": "unknown_real_flight",
+  "label": "normal",
+  "attack_type": "none",
+  "drone_sysid": 1,
+  "gcs_sysid": 255,
+  "total_records": 12438,
+  "uplink_count": 438,
+  "downlink_count": 11343,
+  "other_count": 657,
+  "start_time": 1741764532.965,
+  "end_time": 1741764879.343,
+  "duration_sec": 346.37800002098083
+}
