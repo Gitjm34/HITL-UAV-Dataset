@@ -1,0 +1,14 @@
+{
+  "run_id": "20260420_204552_dd948c",
+  "domain": "hitl",
+  "scenario": "hover",
+  "attack_type": "none",
+  "label": "normal",
+  "start_time": "2026-04-20T20:45:52.055993",
+  "port": "/dev/serial0",
+  "baud": 57600,
+  "collector_version": "2.1",
+  "end_time": "2026-04-20T20:49:23.084217",
+  "duration_sec": 210.9,
+  "total_messages": 2512
+}

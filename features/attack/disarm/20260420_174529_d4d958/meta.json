@@ -1,0 +1,14 @@
+{
+  "run_id": "20260420_174529_d4d958",
+  "domain": "hitl",
+  "scenario": "hover",
+  "attack_type": "disarm",
+  "label": "attack",
+  "start_time": "2026-04-20T17:45:29.865997",
+  "port": "/dev/serial0",
+  "baud": 57600,
+  "collector_version": "2.1",
+  "end_time": "2026-04-20T17:48:43.080738",
+  "duration_sec": 193.0,
+  "total_messages": 2897
+}
