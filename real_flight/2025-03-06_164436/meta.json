@@ -12,5 +12,13 @@
   "other_count": 1715,
   "start_time": 1741246190.6339998,
   "end_time": 1741247066.849,
-  "duration_sec": 876.2150001525879
+  "duration_sec": 876.2150001525879,
+  "channels_available": [
+    "drone_to_gcs",
+    "gcs_to_drone"
+  ],
+  "tlog_coverage": "full",
+  "has_merged": true,
+  "has_merged_all": true,
+  "has_features": false
 }

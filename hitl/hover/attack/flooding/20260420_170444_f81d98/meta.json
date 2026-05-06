@@ -7,5 +7,13 @@
   "start_time": "2026-04-20T17:04:44.182654",
   "port": "/dev/serial0",
   "baud": 57600,
-  "collector_version": "2.1"
+  "collector_version": "2.1",
+  "channels_available": [
+    "drone_to_rpi",
+    "attacker_to_drone"
+  ],
+  "tlog_coverage": "none",
+  "has_merged": true,
+  "has_merged_all": true,
+  "has_features": true
 }

@@ -11,5 +11,15 @@
   "total_messages": 4941,
   "duration_sec": 219.0,
   "end_time": "(reconstructed from raw timestamps)",
-  "note": "meta.json was incomplete; duration/messages reconstructed"
+  "note": "meta.json was incomplete; duration/messages reconstructed",
+  "channels_available": [
+    "drone_to_gcs",
+    "gcs_to_drone",
+    "drone_to_rpi",
+    "attacker_to_drone"
+  ],
+  "tlog_coverage": "pre_attack",
+  "has_merged": true,
+  "has_merged_all": true,
+  "has_features": false
 }

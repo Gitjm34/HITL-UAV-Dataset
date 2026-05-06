@@ -11,5 +11,12 @@
   "end_time": "2026-04-24T16:40:07.265644",
   "duration_sec": 68.9,
   "total_messages": 821,
-  "_correction_note": "domain corrected from typo 'hirl' to 'hitl'"
+  "_correction_note": "domain corrected from typo 'hirl' to 'hitl'",
+  "channels_available": [
+    "drone_to_rpi"
+  ],
+  "tlog_coverage": "none",
+  "has_merged": false,
+  "has_merged_all": false,
+  "has_features": false
 }

@@ -1,0 +1,2 @@
+*.jsonl filter=lfs diff=lfs merge=lfs -text
+*.tlog filter=lfs diff=lfs merge=lfs -text

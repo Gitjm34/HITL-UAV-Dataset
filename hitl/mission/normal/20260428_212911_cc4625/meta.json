@@ -10,5 +10,14 @@
   "collector_version": "2.1",
   "end_time": "2026-04-28T21:34:58.418144",
   "duration_sec": 345.6,
-  "total_messages": 4119
+  "total_messages": 4119,
+  "channels_available": [
+    "drone_to_gcs",
+    "gcs_to_drone",
+    "drone_to_rpi"
+  ],
+  "tlog_coverage": "full",
+  "has_merged": true,
+  "has_merged_all": true,
+  "has_features": false
 }

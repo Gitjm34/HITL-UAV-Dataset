@@ -10,5 +10,12 @@
   "collector_version": "2.1",
   "end_time": "2026-04-20T21:10:27.837659",
   "duration_sec": 244.6,
-  "total_messages": 2916
+  "total_messages": 2916,
+  "channels_available": [
+    "drone_to_rpi"
+  ],
+  "tlog_coverage": "none",
+  "has_merged": true,
+  "has_merged_all": false,
+  "has_features": true
 }
