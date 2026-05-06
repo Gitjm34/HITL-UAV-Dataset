@@ -389,6 +389,15 @@ real_msgs = [json.loads(line) for line
 5. **Cross-domain 분석**: HITL (시뮬레이션) vs Real flight (실기체). Domain gap 측정 및 보완 방법 연구.
 6. **Pre-flight Phase 보안 연구**: `pre_flight` .tlog로 비행 준비 단계의 양방향 명령 흐름 분석. ARM, TAKEOFF 단계 공격 시그니처 연구.
 
+## 약어 안내
+
+- **HITL**: Hardware-in-the-Loop (시뮬레이션 환경에 실제 비행 제어기 + 
+  실제 온보드 컴퓨터를 연결하는 시뮬레이션 방식)
+- **RPi**: Raspberry Pi
+- **GCS**: Ground Control Station (QGroundControl)
+- **TELEM1**: Pixhawk의 텔레메트리 출력 UART 포트
+- **MAVLink**: Micro Air Vehicle Link
+- **NTP**: Network Time Protocol
 
 ## 인용
 
